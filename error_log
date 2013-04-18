@@ -1,0 +1,34 @@
+[09-Feb-2013 22:02:40 America/Denver] PHP Fatal error:  Class 'Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/hello.php on line 4
+[10-Feb-2013 20:13:11 America/Denver] PHP Fatal error:  Class 'Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/hello.php on line 4
+[10-Feb-2013 20:13:26 America/Denver] PHP Fatal error:  Class 'Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/hello.php on line 4
+[10-Feb-2013 20:13:50 America/Denver] PHP Fatal error:  Class 'Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/hello.php on line 4
+[10-Feb-2013 20:13:51 America/Denver] PHP Fatal error:  Class 'Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/hello.php on line 4
+[24-Feb-2013 00:11:14 America/Denver] PHP Fatal error:  Call to undefined method CI_Loader::spark() in /home3/theclarc/public_html/roadrate/application/controllers/welcome.php on line 19
+[24-Feb-2013 00:32:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/theclarc/public_html/roadrate/application/controllers/welcome.php on line 32
+[24-Feb-2013 00:40:57 America/Denver] PHP Fatal error:  Cannot redeclare class REST in /home3/theclarc/public_html/roadrate/sparks/restclient/2.1.0/libraries/Rest.php on line 17
+[03-Mar-2013 15:32:58 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:33:00 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:33:14 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:33:15 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:33:21 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:33:22 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:33:38 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:34:54 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:34:55 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:35:50 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:35:57 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:35:58 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:42:18 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:42:20 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:42:36 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:42:43 America/Denver] PHP Fatal error:  Cannot instantiate abstract class REST_Controller in /home3/theclarc/public_html/roadrate/system/core/Loader.php on line 1099
+[03-Mar-2013 15:43:09 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:43:57 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:43:58 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:44:15 America/Denver] PHP Fatal error:  Class 'REST_Controller' not found in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 20
+[03-Mar-2013 15:54:30 America/Denver] PHP Fatal error:  Cannot use object of type models\User as array in /home3/theclarc/public_html/roadrate/application/controllers/home.php on line 34
+[03-Mar-2013 15:58:53 America/Denver] PHP Fatal error:  Call to undefined method models\User::toArray() in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 48
+[03-Mar-2013 15:59:53 America/Denver] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 48
+[03-Mar-2013 16:17:38 America/Denver] PHP Fatal error:  Call to undefined method models\User::toArray() in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 46
+[03-Mar-2013 16:18:38 America/Denver] PHP Fatal error:  Call to undefined method Doctrine::getTable() in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 44
+[03-Mar-2013 16:18:42 America/Denver] PHP Fatal error:  Call to undefined method Doctrine::getTable() in /home3/theclarc/public_html/roadrate/application/controllers/api/example.php on line 44
